@@ -1,0 +1,21 @@
+/* Basic flat style for headers */
+h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: bold;
+    margin: 0;
+    text-align: center;
+}
+
+/* Basic flat style for paragraphs */
+p {
+    color: #666;
+    margin: 0;
+    text-align: center;
+}
+
+/* Basic flat style for canvas */
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid darkgray;
+}
